@@ -74,8 +74,8 @@ This was a brute force approach to learning how to setup an ML development envir
 It was easy enough to get the MSE on the validation set below 3 but this created an over trained model. I experimented with dropout, early stopping, and L1 and L2 regularization to overcome over training and did the best I could with the data available.
 ## Result
 
-* https://github.com/tonypls/simpleSpeed/test_pred.txt
-* https://github.com/tonypls/simpleSpeed/test_out.mp4
+* https://github.com/tonypls/shpeedy/blob/master/test_pred.txt
+* https://drive.google.com/file/d/1UrBlz_Qdw0g-h1ABd9AWhOnnYyPbZVLZ/view?usp=sharing .mp4 with speed
 
 ## Future Work
 
