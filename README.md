@@ -83,6 +83,7 @@ It was easy enough to get the MSE on the validation set below 3 but this created
 * Implement an LSTM to give the model some "memory"
 * Apply some smoothing to the result, limit the rate of change
 * Remove some noise but identifying and exluding other moving vehicles
+* Track horizontal edges
  
 
 ## References
